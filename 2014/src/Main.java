@@ -1,12 +1,10 @@
-package voorbereidingsvraag;
-
 import java.util.Scanner;
 
 /**
  *
  * @author Wouter Pinnoo <Wouter.Pinnoo@UGent.be>
  */
-public class MinMax {
+public class Main {
  
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
